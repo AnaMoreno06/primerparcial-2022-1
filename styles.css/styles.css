@@ -1,0 +1,17 @@
+.body{
+  margin: 0%;
+  background-color:#D2B4DE ; 
+  font-family: 'Alkalami', serif;
+}
+
+
+.page-nave{
+    border-color: aliceblue;
+    border:1px solid black ;
+}
+.page-nave h1{
+    margin: 20pxs;
+}
+.page-content{
+    border:1px solid royalblue ;
+}
